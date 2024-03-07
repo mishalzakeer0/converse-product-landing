@@ -17,3 +17,17 @@
         display: none !important;
     }
 }
+.links{
+  color: black !important;
+  text-decoration: none !important;
+  font-size: small;
+  opacity: 0.5;
+}
+::-webkit-scrollbar{
+  width: 12px;
+}
+
+::-webkit-scrollbar-thumb{
+  background: black;
+
+}
